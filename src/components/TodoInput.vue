@@ -33,7 +33,6 @@ export default{
         var value = this.newTodoItem && this.newTodoItem.trim();
         this.$emit('addTodo',value) //하위 에서 상위
         this.clearInput();
-        console.log(value);
       }else{
         this.showModal = !this.showModal;
       }
