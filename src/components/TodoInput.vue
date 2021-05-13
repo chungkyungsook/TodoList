@@ -38,7 +38,7 @@ export default{
       }
     },
     clearInput(){
-      this.newTodoItem = '';
+      this.newTodoItem = ''
     }
   },
   components: {
