@@ -3,16 +3,13 @@
 > A Vue.js project
 
 ## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
+```
 # serve with hot reload at localhost:8080
 npm run dev
-
-# build for production with minification
-npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 画面
+![image](https://user-images.githubusercontent.com/71969021/118635325-69434000-b80e-11eb-971c-acd1644c8ead.png)
+
+
+
